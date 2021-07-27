@@ -1,0 +1,1 @@
+vehicle_id,title,description,url,make,model,year,mileage.value,mileage.unit,image[0].url,image[0].tag[0],transmission,fuel_type,body_style,drivetrain,vin,condition,price,address,exterior_color,sale_price,availability,state_of_vehicle,latitude,longitude,custom_label_0
