@@ -71,6 +71,198 @@
         
                 <item>
                     <!-- The following attributes are always required -->
+                    <g:id>63530</g:id>
+                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>111500 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-1-5-tsi-110-kw-150-km-6-biegowa-manualna-czern-magic-metalizowany-tmbjr7nx9ny014805.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/8/c/8c7a4b8de3a1ff28b2b7f0a6a6c70e76-TMBJR7NX9NY014805-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>994.48 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[OCTAVIA COMBI]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Czerń Magic Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJR7NX9NY014805Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63062</g:id>
+                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>124600 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-1-5-tsi-110-kw-150-km-6-biegowa-manualna-biel-moon-metalizowany-tmbjr7nx5ny007737.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/2/02eac604193fec091e2a4345337ebc9c-TMBJR7NX5NY007737-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>1111.32 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[OCTAVIA COMBI]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Biel Moon Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJR7NX5NY007737Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>62799</g:id>
+                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>118750 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-2-0-tdi-85-kw-115-km-6-biegowa-manualna-biel-moon-metalizowany-tmbjg7nxxmy183199.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/6/d/6d92d951c12a2b7f0f63cfe83e38266f-TMBJG7NXXMY183199-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>1454.13 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[OCTAVIA COMBI]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Biel Moon Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJG7NXXMY183199Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[DIESEL]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63653</g:id>
+                    <title><![CDATA[ŠKODA SUPERB SPORTLINE]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>188700 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-superb-sportline-2-0-tdi-147-kw-200-km-7-biegowa-automatyczna-dsg-szary-steel-niemetalizowany-tmbar7np8m7078953.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/5/3/53e1289360ea27fa4334bb34609db81e-TMBAR7NP8M7078953-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>1953.95 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[SUPERB SPORTLINE]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Szary Steel Niemetalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBAR7NP8M7078953Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[AUTOMATIC]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[DIESEL]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[SEDAN]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63550</g:id>
+                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>64000 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-biel-moon-metalizowany-tmbjp6nj9nz007343.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/e/b/ebd7fcdc9c69d77e7558005d123377ae-TMBJP6NJ9NZ007343-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>669.61 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Biel Moon Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJP6NJ9NZ007343Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63467</g:id>
+                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>61400 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-mpi-44-kw-60-km-5-biegowa-manualna-blekit-energy-niemetalizowany-tmbja6nj2nz010389.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/9/4/94e449544df9174a5733d432fd2de961-TMBJA6NJ2NZ010389-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>689.66 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Błękit Energy Niemetalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJA6NJ2NZ010389Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
                     <g:id>63180</g:id>
                     <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
                     <g:availability><![CDATA[in stock]]></g:availability>
@@ -91,6 +283,38 @@
                     <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
                     <g:brand><![CDATA[ŠKODA]]></g:brand>
                     <g:mpn>TMBJP6NJ0NZ008073Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63053</g:id>
+                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>67750 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-blekit-race-metalizowany-tmbjp6njxnz007013.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/e/2/e2652999c939833abc889a13bec8418e-TMBJP6NJXNZ007013-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>708.85 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Błękit Race Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJP6NJXNZ007013Y</g:mpn>
                     <g:google_product_category>Pojazdy i części</g:google_product_category>
         
                     <!-- The following demonstrates the use of the custom attributes -->
@@ -199,13 +423,13 @@
         
                 <item>
                     <!-- The following attributes are always required -->
-                    <g:id>63208</g:id>
+                    <g:id>63164</g:id>
                     <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
                     <g:availability><![CDATA[in stock]]></g:availability>
                     <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
                     <g:price>68500 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-szary-quarz-metalizowany-tmbjp6nj0nz008011.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/4/044a856e69aa68db6e6612f98f731b43-TMBJP6NJ0NZ008011-EF.png]]></g:image_link>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-szary-quarz-metalizowany-tmbjp6nj5nz007517.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/4/044a856e69aa68db6e6612f98f731b43-TMBJP6NJ5NZ007517-EF.png]]></g:image_link>
         
                     <!-- The following demonstrates the use of the 'sale price' attribute -->
                     <g:sale_price>716.70 PLN</g:sale_price>
@@ -218,7 +442,7 @@
                     <g:color><![CDATA[Szary Quarz Metalizowany]]></g:color>
                     <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
                     <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJP6NJ0NZ008011Y</g:mpn>
+                    <g:mpn>TMBJP6NJ5NZ007517Y</g:mpn>
                     <g:google_product_category>Pojazdy i części</g:google_product_category>
         
                     <!-- The following demonstrates the use of the custom attributes -->
@@ -263,13 +487,13 @@
         
                 <item>
                     <!-- The following attributes are always required -->
-                    <g:id>63164</g:id>
+                    <g:id>63264</g:id>
                     <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
                     <g:availability><![CDATA[in stock]]></g:availability>
                     <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
                     <g:price>68500 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-szary-quarz-metalizowany-tmbjp6nj5nz007517.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/4/044a856e69aa68db6e6612f98f731b43-TMBJP6NJ5NZ007517-EF.png]]></g:image_link>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-szary-quarz-metalizowany-tmbjp6nj4nz008688.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/4/044a856e69aa68db6e6612f98f731b43-TMBJP6NJ4NZ008688-EF.png]]></g:image_link>
         
                     <!-- The following demonstrates the use of the 'sale price' attribute -->
                     <g:sale_price>716.70 PLN</g:sale_price>
@@ -282,7 +506,39 @@
                     <g:color><![CDATA[Szary Quarz Metalizowany]]></g:color>
                     <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
                     <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJP6NJ5NZ007517Y</g:mpn>
+                    <g:mpn>TMBJP6NJ4NZ008688Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63208</g:id>
+                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>68500 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-szary-quarz-metalizowany-tmbjp6nj0nz008011.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/4/044a856e69aa68db6e6612f98f731b43-TMBJP6NJ0NZ008011-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>716.70 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Szary Quarz Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJP6NJ0NZ008011Y</g:mpn>
                     <g:google_product_category>Pojazdy i części</g:google_product_category>
         
                     <!-- The following demonstrates the use of the custom attributes -->
@@ -347,6 +603,70 @@
                     <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
                     <g:brand><![CDATA[ŠKODA]]></g:brand>
                     <g:mpn>TMBJP6NJ5NZ007579Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63549</g:id>
+                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>69100 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-srebrny-brillant-metalizowany-tmbjp6nj3nz008598.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/e/6/e6411e2516cd39eabbe5905e41c7d106-TMBJP6NJ3NZ008598-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>722.97 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Srebrny Brillant Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJP6NJ3NZ008598Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63054</g:id>
+                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>69250 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-szary-quarz-metalizowany-tmbjp6nj1nz006896.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/a/c/ac4c2721f6bcdacc8043737aa10a99cd-TMBJP6NJ1NZ006896-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>724.54 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Szary Quarz Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJP6NJ1NZ006896Y</g:mpn>
                     <g:google_product_category>Pojazdy i części</g:google_product_category>
         
                     <!-- The following demonstrates the use of the custom attributes -->
@@ -450,198 +770,6 @@
                     <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
                     <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
                     <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
-                    <g:id>63530</g:id>
-                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>111500 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-1-5-tsi-110-kw-150-km-6-biegowa-manualna-czern-magic-metalizowany-tmbjr7nx9ny014805.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/8/c/8c7a4b8de3a1ff28b2b7f0a6a6c70e76-TMBJR7NX9NY014805-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>994.48 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[OCTAVIA COMBI]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Czerń Magic Metalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJR7NX9NY014805Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
-                    <g:id>63103</g:id>
-                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>117000 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-1-5-tsi-110-kw-150-km-6-biegowa-manualna-szary-quarz-metalizowany-tmbjr7nx0my192438.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/3/5/35069b6c3c8aadf257fcbf794ad5a16b-TMBJR7NX0MY192438-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>1043.53 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[OCTAVIA COMBI]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Szary Quarz Metalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJR7NX0MY192438Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
-                    <g:id>63062</g:id>
-                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>124600 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-1-5-tsi-110-kw-150-km-6-biegowa-manualna-biel-moon-metalizowany-tmbjr7nx5ny007737.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/2/02eac604193fec091e2a4345337ebc9c-TMBJR7NX5NY007737-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>1111.32 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[OCTAVIA COMBI]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Biel Moon Metalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJR7NX5NY007737Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
-                    <g:id>62799</g:id>
-                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>118750 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-2-0-tdi-85-kw-115-km-6-biegowa-manualna-biel-moon-metalizowany-tmbjg7nxxmy183199.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/6/d/6d92d951c12a2b7f0f63cfe83e38266f-TMBJG7NXXMY183199-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>1454.13 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[OCTAVIA COMBI]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Biel Moon Metalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJG7NXXMY183199Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[DIESEL]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
-                    <g:id>63388</g:id>
-                    <title><![CDATA[ŠKODA OCTAVIA COMBI]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>140200 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-octavia-combi-2-0-tdi-110-kw-150-km-6-biegowa-manualna-czern-magic-metalizowany-tmbjj7nxxny011970.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/d/8/d85c85715c113f8063b6ce8daa423372-TMBJJ7NXXNY011970-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>1716.79 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[OCTAVIA COMBI]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Czerń Magic Metalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJJ7NXXNY011970Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[DIESEL]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
-                    <g:id>63653</g:id>
-                    <title><![CDATA[ŠKODA SUPERB SPORTLINE]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>188700 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-superb-sportline-2-0-tdi-147-kw-200-km-7-biegowa-automatyczna-dsg-szary-steel-niemetalizowany-tmbar7np8m7078953.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/5/3/53e1289360ea27fa4334bb34609db81e-TMBAR7NP8M7078953-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>1953.95 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[SUPERB SPORTLINE]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Szary Steel Niemetalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBAR7NP8M7078953Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[AUTOMATIC]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[DIESEL]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[SEDAN]]></c:custom_label_3>
                     <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
                 </item>
         
