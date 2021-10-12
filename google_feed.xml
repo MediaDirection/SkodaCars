@@ -71,38 +71,6 @@
         
                 <item>
                     <!-- The following attributes are always required -->
-                    <g:id>63467</g:id>
-                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>61400 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-mpi-44-kw-60-km-5-biegowa-manualna-blekit-energy-niemetalizowany-tmbja6nj2nz010389.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/9/4/94e449544df9174a5733d432fd2de961-TMBJA6NJ2NZ010389-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>689.66 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Błękit Energy Niemetalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJA6NJ2NZ010389Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
                     <g:id>63053</g:id>
                     <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
                     <g:availability><![CDATA[in stock]]></g:availability>
@@ -135,38 +103,6 @@
         
                 <item>
                     <!-- The following attributes are always required -->
-                    <g:id>63573</g:id>
-                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>68450 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-srebrny-brillant-metalizowany-tmbjp6nj4nz007797.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/2/8/288f422a6d40d94720e503c2527dc242-TMBJP6NJ4NZ007797-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>716.17 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Srebrny Brillant Metalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJP6NJ4NZ007797Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
                     <g:id>63572</g:id>
                     <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
                     <g:availability><![CDATA[in stock]]></g:availability>
@@ -187,6 +123,38 @@
                     <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
                     <g:brand><![CDATA[ŠKODA]]></g:brand>
                     <g:mpn>TMBJP6NJ3NZ007810Y</g:mpn>
+                    <g:google_product_category>Pojazdy i części</g:google_product_category>
+        
+                    <!-- The following demonstrates the use of the custom attributes -->
+                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
+                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
+                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
+                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
+                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
+                </item>
+        
+                <item>
+                    <!-- The following attributes are always required -->
+                    <g:id>63573</g:id>
+                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
+                    <g:availability><![CDATA[in stock]]></g:availability>
+                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
+                    <g:price>68450 PLN</g:price>
+                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-srebrny-brillant-metalizowany-tmbjp6nj4nz007797.html]]></link>
+                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/2/8/288f422a6d40d94720e503c2527dc242-TMBJP6NJ4NZ007797-EF.png]]></g:image_link>
+        
+                    <!-- The following demonstrates the use of the 'sale price' attribute -->
+                    <g:sale_price>716.17 PLN</g:sale_price>
+        
+                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
+                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
+                    <description><![CDATA[Oferta leasingu online]]></description>
+                    <g:condition>new</g:condition>
+                    <g:quantity>1</g:quantity>
+                    <g:color><![CDATA[Srebrny Brillant Metalizowany]]></g:color>
+                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
+                    <g:brand><![CDATA[ŠKODA]]></g:brand>
+                    <g:mpn>TMBJP6NJ4NZ007797Y</g:mpn>
                     <g:google_product_category>Pojazdy i części</g:google_product_category>
         
                     <!-- The following demonstrates the use of the custom attributes -->
@@ -251,38 +219,6 @@
                     <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
                     <g:brand><![CDATA[ŠKODA]]></g:brand>
                     <g:mpn>TMBJP6NJXNZ008047Y</g:mpn>
-                    <g:google_product_category>Pojazdy i części</g:google_product_category>
-        
-                    <!-- The following demonstrates the use of the custom attributes -->
-                    <c:custom_label_0><![CDATA[2021]]></c:custom_label_0>
-                    <c:custom_label_1><![CDATA[MANUAL]]></c:custom_label_1>
-                    <c:custom_label_2><![CDATA[GASOLINE]]></c:custom_label_2>
-                    <c:custom_label_3><![CDATA[WAGON]]></c:custom_label_3>
-                    <c:custom_label_4><![CDATA[FWD]]></c:custom_label_4>
-                </item>
-        
-                <item>
-                    <!-- The following attributes are always required -->
-                    <g:id>63264</g:id>
-                    <title><![CDATA[ŠKODA FABIA COMBI CLASSIC]]></title>
-                    <g:availability><![CDATA[in stock]]></g:availability>
-                    <g:product_type><![CDATA[Pojazdy i części]]></g:product_type>
-                    <g:price>68500 PLN</g:price>
-                    <link><![CDATA[https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-70-kw-95-km-5-biegowa-manualna-szary-quarz-metalizowany-tmbjp6nj4nz008688.html]]></link>
-                    <g:image_link><![CDATA[https://sklep.skoda-auto.pl/media/catalog/product/cache/779e34063ea37c481ddb6652b1f2b61e/0/4/044a856e69aa68db6e6612f98f731b43-TMBJP6NJ4NZ008688-EF.png]]></g:image_link>
-        
-                    <!-- The following demonstrates the use of the 'sale price' attribute -->
-                    <g:sale_price>716.70 PLN</g:sale_price>
-        
-                    <!-- The following attributes are not required for this item, but supplying them is recommended if applicable -->
-                    <name><![CDATA[FABIA COMBI CLASSIC]]></name>
-                    <description><![CDATA[Oferta leasingu online]]></description>
-                    <g:condition>new</g:condition>
-                    <g:quantity>1</g:quantity>
-                    <g:color><![CDATA[Szary Quarz Metalizowany]]></g:color>
-                    <g:manufacturer><![CDATA[ŠKODA]]></g:manufacturer>
-                    <g:brand><![CDATA[ŠKODA]]></g:brand>
-                    <g:mpn>TMBJP6NJ4NZ008688Y</g:mpn>
                     <g:google_product_category>Pojazdy i części</g:google_product_category>
         
                     <!-- The following demonstrates the use of the custom attributes -->
