@@ -1,0 +1,1 @@
+[{"id": "64032", "link": "https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-95km-szary-quarz-metalizowany-tmbjp6nj1nz011743.html", "price": "716,70\u00a0z\u0142"}, {"id": "64151", "link": "https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-95km-blekit-race-metalizowany-tmbjp6nj0nz012513.html", "price": "722,97\u00a0z\u0142"}]
