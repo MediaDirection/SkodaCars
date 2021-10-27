@@ -1,0 +1,1 @@
+[{"id": "63898", "link": "https://sklep.skoda-auto.pl/skoda-superb-2-0-tdi-200-km-braz-magnetic-metalizowany-tmbar7npxn7008243.html", "price": "1\u00a0990,19\u00a0z\u0142"}, {"id": "64340", "link": "https://sklep.skoda-auto.pl/skoda-fabia-combi-classic-1-0-tsi-95km-blekit-lava-metalizowany-tmbjp6nj9nz014311.html", "price": "781,04\u00a0z\u0142"}]
